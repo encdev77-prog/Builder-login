@@ -1,0 +1,6 @@
+{
+  "name": "The Helpful Little Builder",
+  "description": "An interactive 3D login experience featuring a cute builder pulling the login screen into place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
